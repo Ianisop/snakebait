@@ -19,7 +19,7 @@ Pretty bad pentester written in python lolol
 
  ## How to run
  ```
- python snakebait https://example.com 50000 -c 10 -t
+ python snakebait.py https://example.com 50000 -c 10 -t
  ```
 
  
