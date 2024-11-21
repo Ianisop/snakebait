@@ -22,5 +22,8 @@ Pretty bad pentester written in python lolol
  python snakebait.py https://example.com 50000 -c 10 -t
  ```
 
+
+### Update
+fishbait(cpp) coming soon
  
 
