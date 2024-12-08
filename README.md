@@ -13,7 +13,7 @@ Pretty bad pentester written in python lolol
 ## Features
 
  - Multithreading(-c [num of threads])
- - HTTPS/HTTPS
+ - HTTP/HTTPS
  - Timing functionality(-t)
  - Logging capability
 
